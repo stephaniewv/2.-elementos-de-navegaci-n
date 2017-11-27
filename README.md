@@ -20,23 +20,23 @@ Identificar los elementos de navegación en los siguientes sites:
 
 ## Breather
 
-####**Navegación Global**
+#### **Navegación Global**
 
 ![logo](assets/global.png)
 
-####**Navegación Local**
+#### **Navegación Local**
 
 ![logo](assets/local.png)
 
-####**Navegación Facetada**
+#### **Navegación Facetada**
 
 ![logo](assets/facetada.png)
 
-####**Navegación Filtrada**
+#### **Navegación Filtrada**
 
 ![logo](assets/filtrada.png)
 
-####**Navegación inline**
+#### **Navegación inline**
 
 ![logo](assets/inline.png)
 
@@ -44,40 +44,40 @@ Identificar los elementos de navegación en los siguientes sites:
 
 ## Github
 
-####**Navegación Global**
+#### **Navegación Global**
 
 ![logo](assets/global2.png)
 
-####**Navegación Local y Facetada**
+#### **Navegación Local y Facetada**
 
 ![logo](assets/local2.png)
 
-####**Navegación Filtrada**
+#### **Navegación Filtrada**
 
 ![logo](assets/filtrada2.png)
 
 
 ## Medium
 
-####**Navegación Global**
+#### **Navegación Global**
 
 ![logo](assets/global3.png)
 
 
-####**Navegación Local**
+#### **Navegación Local**
 
 ![logo](assets/local3.png)
 
-####**Navegación Contextual**
+#### **Navegación Contextual**
 
 ![logo](assets/contextual3.png)
 
 
-####**Navegación inline**
+#### **Navegación inline**
 
 ![logo](assets/inline3.png)
 
-####**Navegación Facetada**
+#### **Navegación Facetada**
 
 ![logo](assets/facetada3.png)
 
